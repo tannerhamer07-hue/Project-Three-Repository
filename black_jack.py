@@ -16,5 +16,11 @@ def calculate_and_print_score(cards):
 def calculate_and_print_house_score(cards):
     pass
 
+def ask_to_hit_or_stand_and_loop():
+    pass
+
+def win_and_lose_conditions():
+    pass
+
 if __name__ == "__main__":
     main()
